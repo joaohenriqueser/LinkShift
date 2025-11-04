@@ -1,7 +1,5 @@
 # 🚀 LinkShift: Encurtador de Links com Variantes A/B
 
-> Teste Prático: Aplicação Full-Stack com Laravel, React, Inertia.js e MySQL.
-
 **LinkShift** é uma aplicação *full-stack* que funciona como um encurtador de links e uma plataforma de testes A/B. Ele permite que usuários autenticados criem *shortlinks* que redirecionam para múltiplas URLs de destino (variantes) com base em pesos percentuais definidos.
 
 O sistema utiliza um algoritmo de seleção ponderada (Roulette Wheel) para distribuir o tráfego proporcionalmente e rastreia cada clique para gerar relatórios de desempenho detalhados.
