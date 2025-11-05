@@ -55,7 +55,7 @@ Siga estes passos para rodar o projeto localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITÓRIO]
+    git clone https://github.com/joaohenriqueser/LinkShift
     cd linkshift
     ```
 
